@@ -1,0 +1,9 @@
+name: jcrosas-Python_meetings
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pytest
+  - jupyter
