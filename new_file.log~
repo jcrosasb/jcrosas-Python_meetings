@@ -1,0 +1,13 @@
+ERROR:__main__:You are dividing by zero
+ERROR:__main__:You are dividing by zero
+INFO:__main__:The division is 6/4
+INFO:__main__:The division is 6/4
+ERROR:__main__:division by zero
+ERROR:__main__:division by zero
+DEBUG:__main__:testing...
+2024-03-04 16:45:48,098 - INFO - The division is 6/4
+2024-03-04 16:45:48,098 - DEBUG - testing...
+2024-03-04 16:45:49,231 - INFO - The division is 6/4
+2024-03-04 16:45:49,231 - DEBUG - testing...
+[PID:98579][TID:4648560128] INFO - The division is 6/4
+[PID:98579][TID:4648560128] DEBUG - testing...
