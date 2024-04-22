@@ -1,0 +1,6 @@
+name|last_name|email|phone|timestamp|format
+John|Doe|johndoe@example.com|123-456-7890|2024-03-12 08:00:00|txt
+Alice|Smith|alice.smith@example.com|987-654-3210|2024-03-12 09:15:00|txt
+Michael|Johnson|michael.johnson@example.com|456-789-0123|2024-03-12 10:30:00|txt
+Emily|Williams|emily.williams@example.com|789-012-3456|2024-03-12 11:45:00|txt
+David|Brown|david.brown@example.com|321-654-9870|2024-03-12 13:00:00|txt

@@ -1,0 +1,8 @@
+ def print_tree(self):
+        def print_helper(node, depth):
+            if node:
+                print_helper(node.right, depth + 1)
+                print("   " * depth + str(node.value))
+                print_helper(node.left, depth + 1)
+
+        print_helper(self.root, 0)
